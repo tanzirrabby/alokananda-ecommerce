@@ -17,17 +17,14 @@ A fully functional, customized e-commerce website built for a local business in 
 ## 🛠️ Tech Stack & Tools
 * **Core Platform:** WordPress
 * **E-commerce Engine:** WooCommerce
-* **Design & Layout:** [Write your Theme name here, e.g., Astra / Storefront]
-* **Page Builder:** [Elementor / Gutenberg]
+* **Design & Layout:** [Astra]
+* **Page Builder:** [Elementor]
 
 ## 📸 Screenshots
-*(Replace the links below with your actual screenshot images)*
 
-* **Homepage:** ![Homepage](<img width="1832" height="497" alt="image" src="https://github.com/user-attachments/assets/3f3b27bb-da91-43e6-b6fa-2e8b4b5be68d" />
-)
+* **Homepage:** ![Homepage](https://github.com/user-attachments/assets/3f3b27bb-da91-43e6-b6fa-2e8b4b5be68d)
 
-* **Checkout Page:** ![Checkout Page](<img width="1904" height="870" alt="image" src="https://github.com/user-attachments/assets/59171a21-3907-46b4-9969-9f51ef955409" />
-)
+* **Checkout Page:** ![Checkout Page](https://github.com/user-attachments/assets/59171a21-3907-46b4-9969-9f51ef955409)
 
 ## 🚀 How to Run Locally
 If you want to test this project on your local machine:
